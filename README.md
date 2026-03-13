@@ -1,6 +1,6 @@
 # Shader Snippets
 
-This is a compilation of useful shader snippets from different sources
+This is a compilation of useful shader snippets and info from different sources
 
 ## Disclaimers
 
