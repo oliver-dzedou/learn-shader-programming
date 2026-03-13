@@ -1,6 +1,6 @@
 # Learn Shader Programming
 
-This is a compilation of useful shader snippets and info from different sources
+Compilation of useful shader snippets and shader programming info 
 
 ## Disclaimers
 
