@@ -1,4 +1,4 @@
-# Shader Snippets
+# Learn Shader Programming
 
 This is a compilation of useful shader snippets and info from different sources
 
